@@ -28,6 +28,32 @@ When asked to explain complex concepts visually, agents often fall back to:
 
 ![High-Density Visual Templates](assets/templates_demo.png)
 
+## Showcase Gallery
+
+Real figures produced with `figcraft`—conveying algorithms, 3D geometry, data structures, and quantitative bounds visually with zero prose walls:
+
+### Algorithm & Textbook Schematics
+
+#### 1. GRPO: Group Standardization & Clipped Surrogate Gate
+![GRPO Pipeline](assets/examples/grpo_pipeline.png)
+
+#### 2. Policy Gradient with Baseline (Illustrated-Node Flowchart)
+![Policy Gradient Flowchart](assets/examples/policy_gradient_flow.png)
+
+#### 3. Expectation-Maximization: Alternating E-Step & M-Step
+![EM Alternating Steps](assets/examples/em_alternating.png)
+
+#### 4. Variable Elimination on a Factor Graph
+![Variable Elimination](assets/examples/variable_elimination.png)
+
+### 3D Geometry, Physics & Benchmark Figures
+
+#### 5. Kernel Stamping, Half-Space Gating & Resulting Film Growth
+![Kernel Gating](assets/examples/kernel_gating.png)
+
+#### 6. 3D Geometry Thumbnails Paired with Quantitative Acceptance Budgets
+![3D Benchmark Budget](assets/examples/3d_benchmark_budget.png)
+
 ## Installation
 
 Copy or clone `figcraft` into your agent's skills directory:
